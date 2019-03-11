@@ -1,2 +1,1 @@
-# lista1web
-Curriculum WEB
+# https://danielhansell.github.io/lista1web/
